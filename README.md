@@ -9,9 +9,9 @@
 🎯 Fr >ontEnd Development Expert 🎯 React Js Expert 🎯  JavaScript 🎯 API Integrations.
 🌟 Trusted 2+ 𝐲𝐞𝐚𝐫𝐬 experience in Frontend Development.</p>
 
-<p>Hello, I am Subhan Tahir, A Frontend Developer using React Js as my core skill and now transitioning towards full stack development. I am doing Frontend Development from past 2 years. In this tenure I have developed various types of Websites using React Js having low to critical complexity level. my skills and tools are:</p>
+<p>Hello, I am Subhan Tahir, A Frontend Developer using React Js as my core skill and now transitioning towards web development. I am doing Frontend Development from past 2 years. In this tenure I have developed various types of Websites using React Js having low to critical complexity level. my skills and tools are:</p>
 
-⭐️ HTML5 ⭐️ CSS3 ⭐ ⭐️ Bootstrap ⭐️ JavaScript ⭐️ ES6 ⭐️ React JS  ⭐️ Context API ⭐️ Custom Hooks development ⭐️ Axios
+⭐️ HTML5 ⭐️ CSS3 ⭐ ⭐️ Bootstrap ⭐️ JavaScript ⭐️ ES6 ⭐️ React JS  ⭐️ fetch API ⭐️ Custom Hooks development ⭐️ Axios
 
 I usually build:
 
