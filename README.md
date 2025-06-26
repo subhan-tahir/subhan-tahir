@@ -6,12 +6,17 @@
 <img align="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="350" height="250"/ >
   <br />
   <br /
-🎯 Fr >ontEnd Development Expert 🎯 React Js Expert 🎯  JavaScript 🎯 API Integrations.
+🎯 FrontEnd Development Expert 🎯 React Js Expert 🎯  JavaScript 🎯 API Integrations.
 🌟 Trusted 2+ 𝐲𝐞𝐚𝐫𝐬 experience in Frontend Development.</p>
 
-<p>Hello, I am Subhan Tahir, A Frontend Developer using React Js as my core skill and now transitioning towards web development. I am doing Frontend Development from past 2 years. In this tenure I have developed various types of Websites using React Js having low to critical complexity level. my skills and tools are:</p>
+<p>Motivated and detail-oriented Frontend Developer with 3 years experience and 6 months internship at devop360 Technology in building responsive web  
+applications using modern web technologies. Proficient in HTML5, CSS3, JavaScript, and UI  
+libraries like Bootstrap, Tailwind CSS, and Material UI. Comfortable working with React.js,  
+version control (Git/GitHub), and deploying projects to Netlify and Vercel. Skilled in  
+collaborating on full-stack projects using basic Node.js and MongoDB. Passionate about clean  
+design, performance, and continuous learning.  complexity level. my skills and tools are:</p>
 
-⭐️ HTML5 ⭐️ CSS3 ⭐ ⭐️ Bootstrap ⭐️ JavaScript ⭐️ ES6 ⭐️ React JS  ⭐️ fetch API ⭐️ Custom Hooks development ⭐️ Axios
+⭐️ HTML5 ⭐️ CSS3 ⭐️ Bootstrap ⭐️ JavaScript ⭐️ ES6 ⭐️ React JS  ⭐️ fetch API ⭐️ Custom Hooks development ⭐️ Axios ⭐Next js ⭐ Mongodb ⭐ Typescript ⭐postman ⭐ Express js
 
 I usually build:
 
