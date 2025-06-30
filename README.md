@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Subhan Tahir👋</h1>
-<h3 align="center">🎯 Front-end Development Expert 🎯 React Js Expert 🎯 JavaScript </h3>
+<h3 align="center">🎯 Front-end Development 🎯 React Js 🎯 Mern Stack Developer 🎯 JavaScript </h3>
 <p align="left">👷 Intermediate in Computer Science from Liaquat College<br />
 🔭 Front-end Developer<br />
 🌱 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.<br />
