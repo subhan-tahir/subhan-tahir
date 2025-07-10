@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Subhan Tahir 👋</h1>
-<h3 align="center">🚀 Front-End Developer | React JS | MERN Stack | JavaScript Enthusiast</h3>
+<h3 align="center">🚀 Front-End Web Developer | React JS Developer | MERN Stack Developer | JavaScript Enthusiast</h3>
 
 <p align="center">
   🌍 Based in Pakistan • 💻 Open to Frontend & Full-Stack Roles • 🎯 Passionate About Clean UI & UX
