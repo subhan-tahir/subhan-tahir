@@ -31,7 +31,7 @@
 ---
 
 ### 🎓 Certificates
- **Web Development Certificate** – PIMS Coaching Center (2023) 
+ **Web Development Certificate** – PIMS Coaching Center (2023) <br />
  **Mern Stack Certificate** – Techzone Center (2024)
  **6-Months Internship** – Devop360 Technology (2024) 
 
