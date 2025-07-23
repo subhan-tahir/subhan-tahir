@@ -39,7 +39,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=subhan-tahir&theme=onedark" alt="Trophies" />
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=subhan-tahir&theme=onedark" alt="Trophies" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhan-tahir&layout=compact&theme=react" />
 </p>
 
@@ -64,6 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
 </p>
