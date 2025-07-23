@@ -11,10 +11,12 @@
 
 ### 👨‍💻 About Me
 
+- 🎓 Matriculation in Computer Science from **TCF School**
 - 🎓 Intermediate in Computer Science from **Liaquat College**
-- 💼 Currently working as a **Front-End Developer**
+- 🎓 Bachelor Degree in Computer Science from Virtual Malir Campous to be (present)
+- 💼 1 year worked in Devop360 Technology as a Frontend Web Development
 - 🧠 Continuously learning new technologies and frameworks
-- 🌟 2+ years of professional experience + 6 months internship at **Devop360 Technologies**
+- 🌟 3+ years of professional experience + 6 months internship at **Devop360 Technologies**
 - 🌐 Proficient in building responsive websites and dashboards with **React**, **Tailwind CSS**, and **JavaScript**
 - 🌍 Deployed apps on **Netlify**, **Vercel**
 
@@ -27,6 +29,11 @@
 **Database & Tools**: MongoDB, Git/GitHub, Postman, Axios, REST API, Redux Toolkit
 
 ---
+
+### 🎓 Certificates
+ **Web Development Certificate** – PIMS Coaching Center (2023) 
+ **Mern Stack Certificate** – Techzone Center (2024)
+ **6-Months Internship** – Devop360 Technology (2024) 
 
 ### 🔧 I Build
 
